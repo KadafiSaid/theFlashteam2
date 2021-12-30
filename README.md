@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	By TheFlash Team
-	the flash.net | @ajlkn
-	
--->
 <html>
 	<head>
 		<title>By TheFlash Team</title>
